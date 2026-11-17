@@ -1,0 +1,39 @@
+.box{
+    background-color: teal;
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
+
+.inner-box{
+    background-color: darkmagenta;
+    width: 200px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: 5px;
+    border: 3px solid black;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.second-box{
+    background-color: darkviolet;
+    width: 400px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
+
+.scnd-innerbox{
+    background-color: blueviolet;
+    width: 200px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+    text-align: center;
+    margin-top: 10px;
+}
